@@ -8,8 +8,9 @@ The purpose of our analysis is to examine temperature trends in Oahu to determin
 The summary statistics for the months we examined are shown below:<br>
 ![Stats.png](Resources/Stats.png)
 
-- The average temperature during December is 71°F, approximately 4° lower than the average temperature during June of 75°F. While statistically speaking the difference between the two data sets is significant, the actual difference between the temperatures is relatively small. 
-- The interquartile range is 73°F- 77°F in June and 69°F-74°F in December. Only 25% of the temperature readings in December fall below 69°F, which is still a very pleasant temperature. 
+- The average temperature during December is 71°F, approximately 4° lower than the average temperature during June of 75°F. 
+- While statistically speaking the difference between the two data sets is significant, the actual difference between the temperatures is relatively small. 
+- The interquartile range is 69°F-74°F in December, meaning that less than 25% of the temperature readings fall below 69°F. 
 
 ## Summary
 
